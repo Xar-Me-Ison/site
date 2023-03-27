@@ -26,5 +26,6 @@ slides:
   - minecraft-end-user
   - learntomod
   - hackathon
+  - augmented-reality
   - hackerspace
 ---
