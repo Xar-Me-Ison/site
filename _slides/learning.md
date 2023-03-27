@@ -28,4 +28,5 @@ slides:
   - hackathon
   - augmented-reality
   - hackerspace
+  - dtss
 ---
