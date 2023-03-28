@@ -18,5 +18,5 @@ events:
   - dynabook
   - children-alto
   - xerox-star-pc
-  - digital-desk
+  - dtss
 ---
