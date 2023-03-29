@@ -12,7 +12,4 @@ tags:
   - sheepshaver
   - emulators
 ---
-
 {% include cs-legacy-emulation.md %}
-
-{% include gallery %}
