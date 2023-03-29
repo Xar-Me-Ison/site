@@ -6,10 +6,10 @@ caption: Οι εξομοιωτές είναι εξαιρετικά εργαλε�
 categories:
   - Μελέτη Περίπτωσης
   - Εργαλεία
-  - Εξομοιωτές
 tags:
   - dosbox 
   - sheepshaver
   - emulators
 ---
+
 {% include cs-legacy-emulation.md %}
